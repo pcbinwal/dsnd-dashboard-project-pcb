@@ -43,6 +43,7 @@ This repository contains the code for the "Software Engineering for Data Scienti
 │   ├── model.pkl
 │   └── report.css
 ├── dist
+│   ├── employee_events-0.1.tar.gz
 ├── python-package
 │   ├── employee_events
 │   │   ├── __init__.py
