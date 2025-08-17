@@ -1,5 +1,4 @@
-# This is test update by PCB 15-Aug
-# Software Engineering for Data Scientists 
+# Software Engineering for Data Scientists - Dashboard Project
 
 ## Install instructions
 
@@ -34,8 +33,8 @@ sh start
 ### App will run in the local host at port 5001
 
 
-
-This repository contains the code for the "Data Scientist dashboard" project for Nano Degree Course from Udacity.
+# About the Packsge
+This repository contains the code for the "Software Engineering for Data Scientists dashboard project" for Nano Degree Course from Udacity.
 
 ### Repository Structure
 ```
@@ -43,7 +42,7 @@ This repository contains the code for the "Data Scientist dashboard" project for
 ├── assets
 │   ├── model.pkl
 │   └── report.css
-├── env
+├── dist
 ├── python-package
 │   ├── employee_events
 │   │   ├── __init__.py
@@ -61,7 +60,7 @@ This repository contains the code for the "Data Scientist dashboard" project for
 │   │   ├── data_table.py
 │   │   ├── dropdown.py
 │   │   ├── matplotlib_viz.py
-│   │   └── radio.py
+│   │   └── radio.py 
 │   ├── combined_components
 │   │   ├── __init__.py
 │   │   ├── combined_component.py
