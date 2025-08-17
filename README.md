@@ -17,7 +17,7 @@ source .env/bin/activate
 ```
 #### step 4: Install requirements/dependencies
 ```
-pip3 install -r requirements 
+pip3 install -r requirements.txt
 ```
 #### step 5: run the webapp 
 ```
@@ -28,10 +28,11 @@ python3 report/dashboard.py
 ./start
 ```
 ##### OR
-    ```
-    sh start
-    ```
+```
+sh start
+```
 ### App will run in the local host at port 5001
+
 
 
 This repository contains the code for the "Data Scientist dashboard" project for Nano Degree Course from Udacity.
