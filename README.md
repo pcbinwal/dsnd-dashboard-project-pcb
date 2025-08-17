@@ -34,7 +34,7 @@ sh start
 
 
 # About the Project
-This repository contains the code for the "Software Engineering for Data Scientists dashboard project" for Nano Degree Course from Udacity.
+This repository contains the code for the "Software Engineering for Data Scientists dashboard project" for Nano Degree Course from udacity.com
 
 ### Repository Structure
 ```
