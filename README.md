@@ -30,7 +30,7 @@
     ```
     sh start
     ```
-### App will run 
+### App will run in the local host at port 5001
 
 
 This repository contains the code for the "Data Scientist dashboard" project for Nano Degree Course from Udacity.
