@@ -33,7 +33,7 @@ sh start
 ### App will run in the local host at port 5001
 
 
-# About the Packsge
+# About the Project
 This repository contains the code for the "Software Engineering for Data Scientists dashboard project" for Nano Degree Course from Udacity.
 
 ### Repository Structure
