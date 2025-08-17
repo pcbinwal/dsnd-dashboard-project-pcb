@@ -33,7 +33,7 @@ class Dropdown(BaseComponent):
     def outer_div(self, child):
 
         return Div(
-            Label(self.label, _for=self.id),
+            Label("Select "+self.label.capitalize()+":- ", _for=self.id),
             child,
             id=self.id,
         )

@@ -130,6 +130,10 @@ ENV/
 env.bak/
 venv.bak/
 
+.env_pcb_2/
+.env_pcb_new/
+.sesskey
+
 # Spyder project settings
 .spyderproject
 .spyproject

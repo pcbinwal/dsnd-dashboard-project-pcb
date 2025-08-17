@@ -7,7 +7,7 @@ class FormGroup(CombinedComponent):
     action = ""
     method = ""
     children = []
-    button_label = "Submit"
+    button_label = "Refresh"
 
     def call_children(self, userid, model):
         children = super().call_children(userid, model)
@@ -17,7 +17,7 @@ class FormGroup(CombinedComponent):
 
     def outer_div(self, children, div_args):
 
-        return Form(Group(*children), **div_args)
+        return Form(Group(*children), **div_args, align="center")
     
     def div_args(self, userid, model):
 

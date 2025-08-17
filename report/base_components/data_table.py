@@ -14,7 +14,7 @@ class DataTable(BaseComponent):
             table = Table(
                 Tr(
                     Th(column) for column in data.columns
-                )
+                ), bgcolor="#EEEEEE", width="100%"
             )
 
             for data_row in data.to_numpy():
