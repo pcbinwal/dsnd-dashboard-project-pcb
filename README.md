@@ -1,32 +1,33 @@
 # This is test update by PCB 15-Aug
 # Software Engineering for Data Scientists 
 
-##### Install instructions
+## Install instructions
 
-# Step 1: Clone this repo to your local environment 
+#### Step 1: Clone this repo to your local environment 
 ```
 git clone <git repo full url>
 ```
-# Step 2: Create Python Virtual Environment
+#### Step 2: Create Python Virtual Environment
 ```
 python3 -m venv .env
 ```
-# Step 3: Activate the virtual environment
-    ```
-    source .env/bin/activate
-    ```
-# step 4: Install requirements/dependencies
-    ```
-    pip3 install -r requirements 
-    ```
-# step 5: run the webapp 
-    ```
-    python3 report/dashboard.py
-    ```
-    Alternatively, one of the following commands can also be used after complete all the above steps:
-    ```
-    ./start
-    ```
+#### Step 3: Activate the virtual environment
+```
+source .env/bin/activate
+```
+#### step 4: Install requirements/dependencies
+```
+pip3 install -r requirements 
+```
+#### step 5: run the webapp 
+```
+python3 report/dashboard.py
+```
+##### Alternatively, one of the following commands can also be used after complete all the above steps:
+```
+./start
+```
+##### OR
     ```
     sh start
     ```
