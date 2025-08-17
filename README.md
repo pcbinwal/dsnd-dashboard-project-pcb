@@ -1,6 +1,18 @@
 # This is test update by PCB 15-Aug
 # Software Engineering for Data Scientists 
 
+##### Install instructions
+```
+Step 1: Clone this repo to your local environment 
+
+Step 2: Create Python Virtual Environment 
+Step 3: Activate the virtual environment
+step 4: Install requirements/dependencies
+step 5: run the webapp 
+
+```
+
+
 This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!
 
 ### Repository Structure
