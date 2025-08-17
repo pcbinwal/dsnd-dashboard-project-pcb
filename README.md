@@ -4,9 +4,9 @@
 ##### Install instructions
 
 # Step 1: Clone this repo to your local environment 
-    ```
-    git clone <git repo full url>
-    ```
+```
+git clone <git repo full url>
+```
 # Step 2: Create Python Virtual Environment
     ```
     python3 -m venv .env
