@@ -2,26 +2,42 @@
 # Software Engineering for Data Scientists 
 
 ##### Install instructions
-```
-Step 1: Clone this repo to your local environment 
+
+# Step 1: Clone this repo to your local environment 
+    ```
     git clone <git repo full url>
-Step 2: Create Python Virtual Environment
+    ```
+# Step 2: Create Python Virtual Environment
+    ```
     python3 -m venv .env
-Step 3: Activate the virtual environment
+    ```
+# Step 3: Activate the virtual environment
+    ```
     source .env/bin/activate
-step 4: Install requirements/dependencies
+    ```
+# step 4: Install requirements/dependencies
+    ```
     pip3 install -r requirements 
-step 5: run the webapp 
+    ```
+# step 5: run the webapp 
+    ```
     python3 report/dashboard.py
-```
+    ```
+    Alternatively, one of the following commands can also be used after complete all the above steps:
+    ```
+    ./start
+    ```
+    ```
+    sh start
+    ```
+### App will run 
 
 
-
-This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!
+This repository contains the code for the "Data Scientist dashboard" project for Nano Degree Course from Udacity.
 
 ### Repository Structure
 ```
-├── README.md
+├── README.md (this file)
 ├── assets
 │   ├── model.pkl
 │   └── report.css
