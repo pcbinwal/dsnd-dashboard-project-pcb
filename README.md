@@ -8,9 +8,9 @@
 git clone <git repo full url>
 ```
 # Step 2: Create Python Virtual Environment
-    ```
-    python3 -m venv .env
-    ```
+```
+python3 -m venv .env
+```
 # Step 3: Activate the virtual environment
     ```
     source .env/bin/activate
